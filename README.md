@@ -21,3 +21,5 @@ To run the code the following steps must be taken.
 2. Run **diffDrive.py** in the way you are able to run Python 3 scripts.
 
 **diffDrive.py** is stopped once the simulation is terminated in V-REP.
+
+**Simulation video link on youtube**: https://youtu.be/ekjVtkOGf3c
